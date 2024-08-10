@@ -6,7 +6,7 @@ Bu repo Kodluyoruz eğitiminde oluşturduğum ilk repo. İçerisinde bir adet RE
 
 Öncelikle projeyi clonelayın. 
 
- ``git clone https://github.com/alpyso/kodluyoruzilkrepo.git``
+ `git clone https://github.com/alpyso/kodluyoruzilkrepo.git`
 
 ## Usage 
 
@@ -14,8 +14,8 @@ Projeyi cloneladıktan sonra Visual Studio Code programını açınız.
 
 Linux için;
 
-`cd kodluyoruzilkrepo
-code .`
+```cd kodluyoruzilkrepo
+code .```
 
 ## Contributing 
 
